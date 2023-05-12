@@ -83,7 +83,7 @@ main .pokemon-card .gif{
     height: 90px;
 }
 
-main .pokemon-card .type{
+main .pokemon-card .types{
     display: flex;
     gap: 15px;
 }
@@ -93,27 +93,27 @@ main .pokemon-card .type{
     border-radius: 10px;
 }
 
-.grass-type{
+.grass{
     background-color: #7ac74c;
 }
 
-.poison-type{
+.poison{
     background-color: #df67ddfb;
 }
 
-.fire-type{
+.fire{
     background-color: #ee8130;
 }
 
-.flying-type{
-    background-color: #aaddec;
+.flying{
+    background-color: #A890F0;
 }
 
-.water-type{
+.water{
     background-color: #6390f0;
 }
 
-.bug-type{
+.bug{
     background-color: #a6b91a;
 }
 
