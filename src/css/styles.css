@@ -85,7 +85,7 @@ main .pokemon-card .gif{
 
 main .pokemon-card .types{
     display: flex;
-    gap: 15px;
+    gap: 10px;
 }
 
 main .pokemon-card .type{
